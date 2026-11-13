@@ -119,17 +119,17 @@
 ### 📈 GitHub Analytics & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashilingbhusnar21&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Kashiling's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashilingbhusnar21&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=kashilingbhusnar21&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Contributions-179%2B-40c463?style=flat-square&logo=github&logoColor=white" alt="Contributions" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashilingbhusnar21&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-#### 🔥 Contribution Activity
+#### 🟩 Contribution Activity Calendar
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashilingbhusnar21&theme=react-dark&hide_border=true&area=true" width="100%" alt="Kashiling's Contribution Graph" />
+  <img src="https://ghchart.rshah.org/40c463/kashilingbhusnar21" width="100%" alt="Kashiling's GitHub Contributions Calendar" />
 </p>
 
 ---
