@@ -116,11 +116,20 @@
 
 ---
 
-### 📈 GitHub Analytics
+### 📈 GitHub Analytics & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashilingbhusnar21&show_icons=true&theme=radical&hide_border=true" alt="Kashiling's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kashilingbhusnar21&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Kashiling's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashilingbhusnar21&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashilingbhusnar21&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+#### 🔥 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashilingbhusnar21&theme=react-dark&hide_border=true&area=true" width="100%" alt="Kashiling's Contribution Graph" />
 </p>
 
 ---
