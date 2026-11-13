@@ -103,9 +103,9 @@
 
 ---
 
-#### ⚡ [CodeArena – Microservices-Based Code Execution & DSA Platform](https://github.com/kashilingbhusnar21/CODEARENA-MICROSERVICES)
+#### ⚡ [CodeArena – Microservices-Based Code Execution & DSA Platform](https://github.com/kashilingbhusnar21/code-execution-platform)
 > *Asynchronous LeetCode-style code evaluation platform with sandboxed Docker runtime execution.*
-> [[Microservices Backend](https://github.com/kashilingbhusnar21/CODEARENA-MICROSERVICES)] • [[Frontend](https://github.com/kashilingbhusnar21/CodearenaFrontend)]
+> [[Source Code](https://github.com/kashilingbhusnar21/code-execution-platform)] • [[Frontend](https://github.com/kashilingbhusnar21/CodearenaFrontend)]
 
 - **Asynchronous Execution Pipeline**: Decoupled submission API and worker nodes via **RabbitMQ** with **Server-Sent Events (SSE)** for zero-polling real-time verdict streaming.
 - **Design Pattern**: Implemented the **Strategy Pattern** for dynamic, extensible runtime execution across Java, Python, and C++.
